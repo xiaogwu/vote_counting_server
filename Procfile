@@ -1,0 +1,1 @@
+web: bundle exec ruby vote_counter.rb -p $PORT
