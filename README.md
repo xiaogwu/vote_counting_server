@@ -33,3 +33,5 @@
 ## Lessons Learned
 * Learned to use Postman Chrome extension to send POST requests
 * Rack has builtin attack prevention
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/87c0898b61c24ce7813552c88a83d11f "githalytics.com")](http://githalytics.com/xiaogwu/vote_counting_server)
